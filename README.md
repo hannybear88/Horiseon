@@ -6,10 +6,10 @@ This application directs the user to an existing site called Horiseon. I was hir
 ## Table of Contents
 <nav>
     <ul>
-        <li><a href="How to Use this Project">How to Use this Project</a></li>
-        <li><a href="Credits">Credits</a></li>
-        <li><a href="License">License</a></li>
-        <li><a href="Contributors">Contributors</a></li>
+        <li><a href="#How to Use this Project">How to Use this Project</a></li>
+        <li><a href="#Credits">Credits</a></li>
+        <li><a href="#License">License</a></li>
+        <li><a href="#Contributors">Contributors</a></li>
     </ul>
 </nav>
 
