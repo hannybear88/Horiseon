@@ -4,10 +4,14 @@
 This application directs the user to an existing site called Horiseon. I was hired by a marketing agency to refacture the code for this site and make it so that it is more accessible. I refactured the code to not only because this is an assignment, but also practice my hacking skills and coding skills, so that I can improve on it. I refractured the website by editing the HTML and CSS Files. I did this to help the webistei by taking out any unncessary div elements, added comments to make it more clear on what changes I had made, and made sure there not any identical CSS classes.  Some challenges I had faced was to see what needed to be refactured and deleted without actually changing what the site can do.
 
 ## Table of Contents
-<a href="#How to Use the Project">How to Use the Project</a>
-<a href="Credits">Credits</a>
-<a href="#License">License</a>
-<a href="#Contributors">Contributors</a>
+<nav>
+    <ul>
+        <li><a href="How to Use this Project">How to Use this Project</a></li>
+        <li><a href="Credits">Credits</a></li>
+        <li><a href="License">License</a></li>
+        <li><a href="Contributors">Contributors</a></li>
+    </ul>
+</nav>
 
 ## How to Use the Project
 Click on the deployed link and explore the page *add deployed link* 
