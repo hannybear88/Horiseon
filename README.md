@@ -16,8 +16,8 @@ This application directs the user to an existing site called Horiseon. I was hir
 ## How to Use the Project
 
 Click here to be directed to the deployed application 
-<a href="https://photos.google.com/>
-    <img src="https://lh3.googleusercontent.com/kg-YWLGxM6p1Unbo7o5twgM3lkQfyVJy8LwE6O5kT1Neey_zvhU_k5Q8t-d9WsKWRpU4BqbiI_d-ksEn9ptzpORUoOYWXxrn4r2t8hv7CtQaU0u0QzNVfUrbh3Vr6cAqHSN0NLF0mhI=w2400">
+
+<img src="/Users/hannybear/Homework/Horiseon/hannybearHoriseonScreenshot.png">
 
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
