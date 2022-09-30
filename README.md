@@ -5,12 +5,12 @@ This application directs the user to an existing site called Horiseon. I was hir
 
 ## Table of Contents
 <nav>
-    <ul>
+    <ol>
         <li><a href="#How to Use this Project">How to Use this Project</a></li>
         <li><a href="#Credits">Credits</a></li>
         <li><a href="#License">License</a></li>
         <li><a href="#Contributors">Contributors</a></li>
-    </ul>
+    </ol>
 </nav>
 
 ## How to Use the Project
@@ -20,9 +20,8 @@ Click on the deployed link and explore the page *add deployed link*
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
 
-## License
-N/A
-
 ## Contributors
-Code refactored by Hannah Chung
-Horiseon web page provide by UCSD Coding Bootcamp
+<ul>
+    <li>Code refactored by Hannah Chung</li>
+    <li>Horiseon web page provide by UCSD Coding Bootcamp</li>
+</ul>

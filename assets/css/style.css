@@ -9,25 +9,6 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* header and navigation links section style (font is in 2 different colors) */
 
 header {
@@ -37,7 +18,7 @@ header {
     color: #ffffff;
 }
 
-#Horizeonlogo header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -59,6 +40,27 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+
 
 header nav ul li {
     display: inline-block;
