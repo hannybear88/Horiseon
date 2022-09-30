@@ -16,9 +16,9 @@ This application directs the user to an existing site called Horiseon. I was hir
 ## How to Use the Project
 
 <a 
-href=“https://hannybear88.github.io/horiseon/”>Click here<\a>
+href=“https://hannybear88.github.io/horiseon/”>Click here</a>
 
-<img src="./assets/images/hannybear88 Horiseon screenshot.png">
+<img src="./assets/images/hannybear88 Horiseon screenshot.png" />
 
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
