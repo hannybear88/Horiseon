@@ -15,9 +15,8 @@ This application directs the user to an existing site called Horiseon. I was hir
 
 ## How to Use the Project
 
-Click here to be directed to the deployed application 
-
-<a href=“https://hannybear88.github.io/horiseon/”>Click here<\a>
+<a 
+href=“https://hannybear88.github.io/horiseon/”>Click here<\a>
 
 <img src="./assets/images/hannybear88 Horiseon screenshot.png">
 
