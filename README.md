@@ -17,7 +17,9 @@ This application directs the user to an existing site called Horiseon. I was hir
 
 Click here to be directed to the deployed application 
 
-<img src="/Users/hannybear/Homework/Horiseon/hannybearHoriseonScreenshot.png">
+<a href=“https://hannybear88.github.io/horiseon/”>Click here<\a>
+
+<img src="./assets/images/hannybear88Horiseonscreenshot.png">
 
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
