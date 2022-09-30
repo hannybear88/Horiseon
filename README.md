@@ -14,8 +14,10 @@ This application directs the user to an existing site called Horiseon. I was hir
 </nav>
 
 ## How to Use the Project
-Click on the deployed link and explore the page *add deployed link* 
+
+Click here to be directed to the deployed application 
 *add screenshot*
+<img src=image->
 
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
@@ -23,5 +25,5 @@ Horiseon web page provided by UCSD Coding Bootcamp
 ## Contributors
 <ul>
     <li>Code refactored by Hannah Chung</li>
-    <li>Horiseon web page provide by UCSD Coding Bootcamp</li>
+    <li>Horiseon web page provided by UCSD Coding Bootcamp</li>
 </ul>
