@@ -19,7 +19,7 @@ Click here to be directed to the deployed application
 
 <a href=“https://hannybear88.github.io/horiseon/”>Click here<\a>
 
-<img src="./assets/images/hannybear88Horiseonscreenshot.png">
+<img src="./assets/images/hannybear88 Horiseon screenshot.png">
 
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
