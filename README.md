@@ -17,7 +17,7 @@ This application directs the user to an existing site called Horiseon. I was hir
 
 Click here to be directed to the deployed application 
 *add screenshot*
-<img src=image->
+<img src="https://photos.app.goo.gl/HKFVPiSR9UWYbcUv8">
 
 ## Credits
 Horiseon web page provided by UCSD Coding Bootcamp 
