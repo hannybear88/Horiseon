@@ -1,4 +1,3 @@
-/* general style */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,140 +8,168 @@ body {
     background-color: #d9dcd6;
 }
 
-/* header and navigation links section style (font is in 2 different colors) */
 
-header {
-    padding: 20px;
+
+/* ~~~ TOP SECTION/HEADER OF SITE ~~~  */
+    
+    /* Defines the attributes of the header such as font, color of background, font color unless specified differently in another section*/ 
+    header {
+    padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-}
-
-header h1 {
+    }
+    
+    /* Hori seo n  name configuration on site */
+    h1 {
     display: inline-block;
     font-size: 48px;
-}
+    }
+    .seo {
+    color: #d9dcd6 ;
+    }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-/* Navigation links are on the right side of the Horiseon logo*/
-
-header nav {
-    padding-top: 15px;
-    margin-right: 20px;
+    /*Defines how links (nav) are displayed in the header*/
+    ul {
     float: right;
+    }    
+    li {
+    display: inline-block;
+    padding-top: 0px;
+    margin-right: 20px;
+    margin-left: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-   
-}
+    font-size: 18px;
+    }
 
-header nav ul {
-    list-style-type: none;
-}
-
-a {
+    /*Defines color of links */
+    a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+    }
 
 
 
-header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
 
-/* Horiseon style */
 
-.Horiseon {
-    height: 800px;
+/* ~~~FIGURE: IMAGE BELOW HEADER~~~ */
+    /* Defines how image will behave */ 
+    .hero {
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: auto;
     background-position: center;
-}
+    }
 
-/* main content style */
 
-main {
+
+
+/* ~~~ LEFT AREA OF THE BODY - MAIN - SECTION LEFT SIDE ~~~ */ 
+/*: Search Engine Optimization, Online Reputation Mgmt, and Social Media Marketing */
+
+    /* Creates a container for the left sie of the the page*/
+    .content {       
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+    }
 
-main section {
+    /* Defines where in the conatiner the imagaes are placed*/
+    .float-left {
+    float: left;
+    margin-right: 25px;
+    }
+
+    .float-right {
+    float: right;
+    margin-left: 25px;
+    }
+
+    /* Each individual section in Main-Section  */
+    .content-titles {
     margin-bottom: 20px;
     padding: 50px;
-    height: auto;
-    overflow: auto;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+    }
 
-main img {
-    max-height: 200px;
-}
+    /* Content layout within each individual section contained in Main - Section */
+    .content-titles img {
+        max-height: 200px;
+    }
 
-main h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+    /* Title for each section in Main - Section */
+    .content-titles h2 {
+        margin-bottom: 20px;
+        font-size: 30px;
+    }
+    
+    /* Description font size within each section in Main - Section */
+    .paragraph1 {
+    font-size: 100%;
+    }
 
-/* benefits section style */
 
-aside {
+
+
+/* ~~~ RIGHT AREA OF THE BODY (ASIDE), MAIN RIGHT SIDE ~~~ */ 
+/*Lead Generation, Brand Awareness, and Cost Mgmt  */
+
+     /* Creates a a container for the right side of the the page Main - Aside and paragraph configuration*/
+    .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 20px 20px 0px 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 1050px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+    }
 
-aside div {
+    /* Each individual section in Main - Aside  */
+    .benefit-title {
     margin-bottom: 32px;
     color: #ffffff;
-}
+    }
 
-aside h3 {
+    /* Title for each section in Main - Aside */
+    .benefit-title h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+    }
 
-aside img {
+    /* Image for each section in Main - Aside */
+    .benefit-title img {
     display: block;
-    margin: 10px auto;
+    margin: 0px auto;
     max-width: 150px;
-}
+    }
 
-/* footer style contains the copyright information*/
+    /* Description font size within each section in Main - Aside */
+    .paragraph2 {
+    font-size: 16px;
+    font-size-adjust: inherit;
+    }
 
-footer {
+
+
+
+/* Bottom/Footer Section of Site  */ 
+    .footer {
+    border: 20px solid #d9dcd6;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
+    /*background-color: #0072bb;*/
+    color: black;
+    }
 
-footer h2 {
+    /* Configures the font size of the heading within the footer */
+    .footer h2 {
     font-size: 20px;
-}
+    }
